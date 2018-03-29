@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: sample.maven.cucumber.maven.Runnerclass
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.885 sec - in sample.maven.cucumber.maven.Runnerclass
